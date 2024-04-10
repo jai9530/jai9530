@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jai9530
 - 👀 I’m interested in Learning new tech
 - 🌱 I’m currently learning Frontend Web Development 
-- 💞️ I’m looking to collaborate on Javascript, RFeact and Next.js 
+- 💞️ I’m looking to collaborate on Javascript, React and Next.js 
 - 📫 How to reach me jaivardhansingh9530@gmail.com
 
 <!---
